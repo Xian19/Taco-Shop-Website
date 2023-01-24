@@ -1,10 +1,10 @@
-# "HTML Project for Beginners"
+# This is an HTML website made base on the tutorials of DaveGrayTeachesCode
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [Check out his YouTube Channel with all of his tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
 This repository shares the starter code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
 
-**Your Challenge:** Utilize the knowledge you have gained from the [HTML for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) tutorial series to build a website for The Little Taco Shop. 
+**The Challenge:** Utilize the knowledge you have gained from the [HTML for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6OlAwitnFUubtE93DO-l0vu) tutorial series to build a website for The Little Taco Shop. 
 
 **Directions:**
 
